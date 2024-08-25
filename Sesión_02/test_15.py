@@ -11,3 +11,4 @@ la variable string numéricaa y la variable flotante
 5. Obtener y mostrar el resultado entero de las 2 variables enteras: //
 
 """
+ 
