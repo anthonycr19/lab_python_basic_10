@@ -1,0 +1,1 @@
+# Mejores prácticas con variables y asignación Múltiple en Python
